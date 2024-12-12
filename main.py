@@ -1,4 +1,4 @@
-print('oi')
+print('oai')
 
 Host dopplet
   HostName 167.99.10.156
